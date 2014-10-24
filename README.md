@@ -1,4 +1,4 @@
-itorrent
+iTorrent - Instant torrents search
 ========
 
-A simple instant torrents search engine
+This is a simple implementation of an instant torrents search engine. It parses the results from an RSS feed provided by http://torrentz.eu
